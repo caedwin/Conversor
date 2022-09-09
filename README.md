@@ -69,14 +69,14 @@ Como bien lo he comentado en los párrafos anteriores, hemos usado eclipse y jav
 
 ### Personas Contribuyentes;
 
-Gracias a todos los profesores que durante mi preparacion y capacitacion me han dado todas las herramientas necesarias para lograr los objetivos de este reto. 
+Gracias a todos los profesores que durante mi preparación y capacitación me han dado todas las herramientas necesarias para lograr los objetivos de este reto.
 
 ### Personas Desarrolladoras del Proyecto
 
-Este proyecto fue reaizado por Dev Edwin Camacho. 
+Este proyecto fue realizado por Dev Edwin Camacho.
 
 ### Licencia.
 
-Este desarrollo es Open Source, solo podra ser utilizado para fines educativos y sin fines de lucro. Esta prohibido Cualquier forma de reproducción, distribución, comunicación pública. La transformación del codigo solo puede ser realizada con la autorización de su titular, salvo excepción prevista por la ley.
+Este desarrollo solo podrá ser utilizado para fines educativos y sin fines de lucro. Está prohibido Cualquier forma de reproducción, distribución, comunicación pública. La transformación del código solo puede ser realizada con la autorización de su titular, salvo excepción prevista por la ley.
 
   
